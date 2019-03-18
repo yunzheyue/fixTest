@@ -1,0 +1,4 @@
+com.example.myfixtest.main/MainActivity.class
+com.example.myfixtest/MyApplication.class
+
+dx --dex --output=C:\Users\Administrator\Desktop\test\classes2.dex C:\Users\Administrator\Desktop\test\dex
